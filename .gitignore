@@ -104,3 +104,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+"" 
+"# Ignorar archivos grandes de iluminaci¢n de Unity (se regeneran solos)" 
+"**/LightingData.asset" 
+"**/LightingData.asset.meta" 
